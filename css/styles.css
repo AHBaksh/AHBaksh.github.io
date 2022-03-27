@@ -65,8 +65,9 @@ p{
 }
 #icons a:visited{
     color: #fff;
-
-
+}
+#icons a:link{
+    color: #fff;
 }
 #icons i{
     padding: 0.2rem;
